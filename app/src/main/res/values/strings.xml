@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="Yes">Sí</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="no">No</string>
+    <string name="anterior">anterior</string>
+    <string name="aciertos">Aciertos:</string>
+</resources>
